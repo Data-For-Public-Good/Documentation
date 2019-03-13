@@ -1,3 +1,4 @@
 # Documentation
 Documentation for the Data 4 Public Good Project
-Steve R is changing the documentation.
+I am editing this file!!!
+>>>>>>> b2ad01ed05c3cf510c0167f83bbb9839f9e4bea5
